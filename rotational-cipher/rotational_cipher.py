@@ -14,3 +14,4 @@ def rotate(text,key):
         else:
             new=new+ch
     return new
+
